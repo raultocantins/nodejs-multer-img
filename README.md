@@ -4,13 +4,13 @@
  
 <h1>Tecnologias Usadas para construção do server</h1>
 
-Multer-para instalação(npm i multer)
+Multer-para instalação (npm i multer)
 
 
-Express-para instalação(npm i express)
+Express-para instalação (npm i express)
 
 
-Nodemon-para instalação(npm i nodemon)
+Nodemon-para instalação (npm i nodemon)
 
 <h1>Clonando o Repositorio atual</h1>
 
