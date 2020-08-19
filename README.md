@@ -1,10 +1,15 @@
- #Nodejs-Multer
+ Nodejs-Multer
+ 
  small nodejs server to handle image uploads
  
 ##Tecnologias Usadas para construção do server
 
 Multer-para instalação(npm i multer)
+
+
 Express-para instalação(npm i express)
+
+
 Nodemon-para instalação(npm i nodemon)
 
 ##Clonando o Repositorio atual
@@ -16,7 +21,11 @@ e na pasta do projeto basta digitar o comando npm i e as dependências do packag
 ##Funcionamento do Server-Nodejs
 
 As principais configurações do server estão no arquivo server.js,utilizo o import do proprio nodejs para importar os modulos multer e o framework web express
+
+
 e instâncio em constantes, feito isso passo essas configurações para express, como é um aplicação teste eu utilizo o proprio express para servir o meu frontend
+
+
 estatico index.html.
 Para que tudo funcione como o esperado utilizo o middleware upload.single('avatar') para tratar o arquivo vindo do body da requisição na rota '/profile'
 e após essas configurações passo para o express a porta onde o server irá aguardar req que é a porta '3000'.
