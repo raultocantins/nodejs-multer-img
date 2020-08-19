@@ -30,8 +30,8 @@ e após essas configurações passo para o express a porta onde o server irá ag
 
 <h1>Iniciando o Server</h1>
 
-<p>Na pasta do projeto que foi clonado atráves do comando git clone 'rep' certifique-se de que todas as dependências estejam instaladas
-feito isso basta acessar o terminal integrado e digitar o comando #npm start e verá que em 'http://localhost:3000' a pagina com o form ficará disponivel.</p>
+<p>Na pasta do projeto que foi clonado atráves do comando git clone 'rep' certifique-se de que todas as dependências estejam instaladas,
+feito isso basta acessar o terminal integrado e digitar o comando npm start e verá que em 'http://localhost:3000' a pagina com o form ficará disponivel.</p>
 
 
 <p>Agora escolha uma imagem e clique em enviar, agora no console do server você verá os dados da imagem e na pasta upload verá um novo arquivo ser criado.</p>
