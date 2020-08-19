@@ -1,8 +1,8 @@
  <h1>Nodejs-Multer</h1>
  
- small nodejs server to handle image uploads
+ <p>small nodejs server to handle image uploads</p>
  
-##Tecnologias Usadas para construção do server
+<h1>Tecnologias Usadas para construção do server</h1>
 
 Multer-para instalação(npm i multer)
 
@@ -12,13 +12,13 @@ Express-para instalação(npm i express)
 
 Nodemon-para instalação(npm i nodemon)
 
-##Clonando o Repositorio atual
+<h1>Clonando o Repositorio atual</h1>
 
 Para utilizar a base do server-nodejs deste repositorio basta utilizar o comando (git clone https://github.com/raultocantins/nodejs-multer-img.git) 
 e na pasta do projeto basta digitar o comando npm i e as dependências do package.json irão instalar automaticamente.
 
 
-##Funcionamento do Server-Nodejs
+<h1>Funcionamento do Server-Nodejs</h1>
 
 As principais configurações do server estão no arquivo server.js,utilizo o import do proprio nodejs para importar os modulos multer e o framework web express
 
@@ -33,7 +33,7 @@ Para que tudo funcione como o esperado utilizo o middleware upload.single('avata
 e após essas configurações passo para o express a porta onde o server irá aguardar req que é a porta '3000'.
 
 
-##Iniciando o Server
+<h1>Iniciando o Server</h1>
 
 Na pasta do projeto que foi clonado atráves do comando git clone 'rep' certifique-se de que todas as dependências estejam instaladas
 
